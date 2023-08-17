@@ -32,7 +32,7 @@ pip install PyIFS
 
 Use the following command to rank features of  multiple datasets using default params: 
 
-        python PyIT-MLFS.py    --datasets   d1, d2, ..., dn 
+        python main.py    --datasets   d1, d2, ..., dn 
 
 Default Params: 
 * Data Path: 'data' folder
